@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.mainheader{
+    background-color:aquamarine;
+    text-align: center;
+    font-size: 50px;
+}
+
+.logindiv {
+    margin: auto;
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
